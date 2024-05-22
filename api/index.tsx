@@ -35,8 +35,8 @@ app.frame('/', (c) => {
                 backgroundColor="teal" 
                 width="1/4">
                 <Image src="https://creator-frame-frog.vercel.app/degen.png"/>
-                <Text>
-                  Blah blah
+                <Text> 
+                  Remove this node to get page to work
                 </Text>
                 <Text>
                   @test text
@@ -48,10 +48,10 @@ app.frame('/', (c) => {
               </Column>
               <Column alignHorizontal="center" backgroundColor="amber" width="1/4">
                 <Text>
-                  M Branson
+                 Test Name
                 </Text>
                 <Text>
-                  @mbranson
+                  Blah blah
                 </Text>
               </Column>
               <Column alignHorizontal="center" backgroundColor="amber" width="1/4">
